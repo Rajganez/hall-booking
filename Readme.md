@@ -5,9 +5,11 @@
 ## Description:
 **API created Using Below End-Points for a Hall Booking Application**
 
+**Render Link is Used to Check the API Endpoints**
+
 **Workspace created API can be checked for Ease of Use**
 
-**https://www.postman.com/rajganez/workspace/hall-booking/collection/34103499-b234716a-8d82-45d5-91a6-1194a1627791?action=share&creator=34103499**
+**https://www.postman.com/rajganez/workspace/hall-booking/request/34103499-7a18c3a0-6eb4-470d-ab86-c3769abd5b49?action=share&creator=34103499&ctx=documentation**
 
 
 *Creating a Room using Path : "/create-room" and below JSON Objects*
@@ -23,7 +25,7 @@
 > Room ID <!---Generated Automatically--->
 
 
-*Booking a Room using Path : "/book-room" and below JSON Objects*
+*Booking a Room using Path : "/book-room/RoomId" and below JSON Objects*
 
 > Customer Name
 
@@ -97,7 +99,7 @@
 
 ## In Postman
 
-*Using API URL :  http://localhost:8000/*
+*Using API URL :  https://hall-booking-56qy.onrender.com/*
 
-*Above End-Points will fetch required data*
+*Above URL Followed by the Above End-Points will fetch required data*
 
